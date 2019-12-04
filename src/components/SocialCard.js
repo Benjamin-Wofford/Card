@@ -1,4 +1,5 @@
 import React from 'react';
+import "./SocialCard.css";
 
 class SocialCard extends React.Component{
 
