@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import SocialCard from './components/SocialCard'
+import Card from './components/Card'
 
 function App() {
-  return <SocialCard/>
+  return <Card/>
 }
 
 export default App;

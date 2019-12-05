@@ -1,7 +1,7 @@
 import React from 'react';
-import "./SocialCard.css";
+import "./Card.css";
 
-class SocialCard extends React.Component{
+class Card extends React.Component{
 
     render(){
         
@@ -14,4 +14,4 @@ class SocialCard extends React.Component{
     }
 }
 
-export default SocialCard;
+export default Card;

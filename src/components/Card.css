@@ -2,14 +2,12 @@
     background-color: #e4e4e4;
     color: rgb(0, 0, 0);
     border-radius: 10px;
-    border-style: solid;
-    border-width: 0.05em;
-    border-color:black;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
-    padding: 4em 12em;
+    padding: 4em 10.5em;
+    opacity: 0.99;
 }
 
 blockquote, cite {
-    font-family: 'Calistoga', cursive;
+    font-family: 'Solway', serif;
     font-size: 250%;
 }
