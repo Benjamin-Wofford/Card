@@ -1,0 +1,21 @@
+
+
+.sharebar {
+    background-color: black;
+    /* z-index: 1; */
+}
+
+ ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:white;
+
+}
+
+.sharebar ul li{
+
+    margin: auto;
+    
+}
