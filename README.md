@@ -1,0 +1,1 @@
+This is my very first project I am working on without the assistance of a tutorial. The idea is to create a quote card component and then have a social media share bar appended to the bottom right of it. 
