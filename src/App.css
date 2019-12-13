@@ -33,15 +33,19 @@
     box-shadow: 0 0 19px #000;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;}
+
+.fb {
+    height: 6vh;
+    width: 6vh; 
 }
 
-/* .fb {
-} */
-
 .twitter {
-    background-color: darkblue;
+    height: 6vh;
+    width: 6vh;
 }
 
 .ig {
-    background-color: rebeccapurple;
+    height: 6vh;
+    width: 6vh;
 }
